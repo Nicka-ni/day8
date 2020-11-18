@@ -1,0 +1,21 @@
+{
+  "name": "8day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "path": "nodemon index.js",
+    "http": "nodemon http.js",
+    "rest": "nodemon rest.js",
+    "fs": "nodemon fs.js",
+    "os": "nodemon os.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
